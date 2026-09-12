@@ -1,0 +1,21 @@
+[
+  {
+    "payee": "Upgrade",
+    "amount": "325.63",
+    "duedate": "9/22/2026",
+    "frequency": "Monthly",
+    "category": "Loan",
+    "autopay": 0,
+    "accountid": ""
+  },
+  {
+    "payee": "Nationwide",
+    "amount": "827.31",
+    "duedate": "9/14/2026",
+    "frequency": "Monthly",
+    "category": "Insurance",
+    "autopay": 0,
+    "accountid": ""
+  }
+]
+

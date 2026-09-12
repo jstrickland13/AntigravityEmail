@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thunderbird": {
+      "command": "node",
+      "args": ["C:\\Users\\johnm\\thunderbird-mcp\\mcp-bridge.cjs"]
+    }
+  }
+}
