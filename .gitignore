@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local email dumps and generated bill staging
+*bills_raw*.json
+*bills_new*.json
+*.csv.bak
+
+# Secrets, connection tokens, credentials
+*connection.json
+*.env
+*.env.*
+*.pem
+*.key
+*.token
+
